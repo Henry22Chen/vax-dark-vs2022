@@ -1,0 +1,24 @@
+{
+    "name": "vax-dark-vs2022",
+    "displayName": "Visual Assist X vs2022 Dark Theme",
+    "description": "A Visual Assist Style dark theme based on visual studio 2022",
+    "version": "0.1.0",
+    "publisher": "Henry14Chen",
+    "engines": {
+        "vscode": "^1.72.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "images/vax2022.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Visual Assist X Style Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Visual Assist X Style Dark Theme-color-theme.json"
+            }
+        ]
+    },
+    "license": "./LICENSE"
+}
