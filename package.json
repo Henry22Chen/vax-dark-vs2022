@@ -20,5 +20,10 @@
             }
         ]
     },
-    "license": "./LICENSE"
+    "license": "./LICENSE",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Henry22Chen/vax-dark-vs2022"
+    },
+    "homepage": "https://github.com/Henry22Chen/vax-dark-vs2022/blob/master/README.md"
 }
