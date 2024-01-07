@@ -25,3 +25,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - 0.1.0
   - change some syntax colors in ts
   - change inlay hint colors
+
+- 0.1.1
+  - change PeekView border's color
